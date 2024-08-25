@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-49&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-49" /> </p>
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mayank-49" alt="visitor badge"/></p>
+<p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-49&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-49" /> </p>
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mayank-49" alt="visitor badge"/></p> </p>
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 <h1 align="center">I'm Mayank Kumar👨‍🎤</h1>
 
