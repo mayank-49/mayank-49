@@ -28,5 +28,5 @@
 
   
 <p align="center">
-  <img width="96%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-49&show_icons=true&locale=en&layout=compact" alt="mayank-49" />
+  <img width="96%" height="25%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-49&show_icons=true&locale=en&layout=compact" alt="mayank-49" />
 </p>
