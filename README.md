@@ -5,11 +5,11 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">📫 How to reach me **mayankkuma04@gmail.com**</p>
+<p align="center">📫 How to reach me **mayank04official@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/x_mayank_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_mayank_04" height="30" width="40" /></a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-kumar-52304b277/" target="_blank">
     <img align="center"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
 
