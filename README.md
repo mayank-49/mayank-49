@@ -8,9 +8,10 @@
 <p align="center">📫 How to reach me **mayankkuma04@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://instagram.com/x_mayank_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_mayank_04" height="30" width="40" /></a>
-</p>
+  <a href="" target="_blank">
+    <img align="center"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+  </a>
 
 <h2 align="left">Technologies I Used</h2>
 
